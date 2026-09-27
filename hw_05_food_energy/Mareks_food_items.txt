@@ -1,0 +1,14 @@
+Marek Newton's food energy items
+09-16
+HyVee
+food item, food group, total cost($), and total Food Energy (kcals),
+tortilla, carb, 2.99, 1760
+tuna, fish, 0.88, 135
+orange, fruit, 1.19, 65
+ground beef, meat, 7.69, 960
+whole milk, dairy, 2.44, 1200
+black beans, legume, 1.49, 360
+ramen, carb, 3.87, 4560
+olive oil, oil, 11.69, 6000
+chocolate chips, n/a, 4.67, 1540
+butter, dairy, 3.99, 3200
