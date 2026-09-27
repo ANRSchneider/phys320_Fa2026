@@ -1,0 +1,14 @@
+#Jackson Struhar food energy items
+# 09-18
+#Midtown Foods
+#food item, food group, total cost($), and total food energy (kcals),
+Cinnamon Oatmeal, Grain, 5.15, 1280,
+Built Protein Bar, Protein, 9.99, 600,
+Cheese Curds, Dairy, 6.99, 1500,
+Tyson Chicken Breast Strips, Protein, 7.99, 1600,
+Honey Cereal, Grain, 3.99, 1280,
+Cottage Cheese, Dairy, 5.99, 540,
+Oikos Yogurt, Dairy, 7.99, 500,
+Rice Krispie Cereal, Grain, 3.50, 900,
+Olive Oil, Oil, 9.99, 3840,
+Whipped Frosting, Sweets, 2.95, 1540,
